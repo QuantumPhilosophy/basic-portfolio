@@ -101,3 +101,10 @@ img {
     width: 213px;
     margin: 5px;
 }
+
+img.portfolio {
+    float: left;
+    height: 250px;
+    width: auto;
+    margin: 5px;
+}
