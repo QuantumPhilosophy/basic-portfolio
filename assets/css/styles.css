@@ -108,3 +108,22 @@ img.portfolio {
     width: auto;
     margin: 5px;
 }
+
+label {
+    display: block;
+    margin: 5px 10px;
+}
+
+input {
+    margin: 5px 10px;
+}
+
+input.inputField {
+    width: 350px;
+}
+
+textarea {
+    height: 50px;
+    width: 350px;
+    margin: 5px 10px;
+}
